@@ -2,6 +2,7 @@
 
 I’m a web developer at a university, where I build and maintain websites, automate processes, and support digital signage and menu services. 
 When I’m not at work, I like exploring side projects — from APIs and scraping to Discord bots and other creative experiments.
+Outside of coding, you can usually find me in the garden, bouldering, or gaming(especially Dead by Daylight).
 
 Currently working on **[dbd-api-news](https://github.com/yourusername/dbd-api-news)** — an open-source API aggregator for *Dead by Daylight* news and updates.
 
