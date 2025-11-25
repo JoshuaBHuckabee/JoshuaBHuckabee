@@ -4,7 +4,7 @@ I’m a web developer at a university, where I build and maintain websites, auto
 When I’m not at work, I like exploring side projects — from APIs and scraping to Discord bots and other creative experiments.
 Outside of coding, you can usually find me in the garden, bouldering, or gaming.
 
-🔭 I’m currently working on **[dbd-api-news](https://github.com/JoshuaBHuckabee/dbd-api-news)** — an open-source API aggregator for *Dead by Daylight* news and updates.
+🔭 I’m currently working on **[dbd-api-news](https://github.com/JoshuaBHuckabee/dbd-news-api)** — an open-source API aggregator for *Dead by Daylight* news and updates.
 
 ---
 
